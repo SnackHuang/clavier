@@ -1,0 +1,19 @@
+{
+  "name": "clavier",
+  "version": "1.0.0",
+  "description": "n2 for fun set",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnackHuang/clavier.git"
+  },
+  "author": "snack.huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnackHuang/clavier/issues"
+  },
+  "homepage": "https://github.com/SnackHuang/clavier#readme"
+}
